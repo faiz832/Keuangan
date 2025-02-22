@@ -19,7 +19,7 @@ function Buku() {
 
   return (
     <div className="mt-12">
-      <div className="max-w-[1200px] mx-auto p-4">
+      <div className="max-w-[1200px] mx-auto">
         <h1 className="text-2xl font-bold">Daftar Buku</h1>
         <div className="my-4 p-4 bg-gray-100">
           {loading ? (
